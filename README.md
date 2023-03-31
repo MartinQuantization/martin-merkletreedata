@@ -1,2 +1,2 @@
 # martin-merkletreedata
-Merkle tree data to prove every user's assets.aa
+Merkle tree data to prove every user's assets.
