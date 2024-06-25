@@ -1,1 +1,1 @@
-{"lastDay":{"type":"BigNumber","hex":"0x4dba"},"rewards":[{"type":"interest","period":"long","time":{"type":"BigNumber","hex":"0x6678b700"},"amount":{"type":"BigNumber","hex":"0x47da281c"}}]}
+{"lastDay":{"type":"BigNumber","hex":"0x4dbb"},"rewards":[{"type":"interest","period":"long","time":{"type":"BigNumber","hex":"0x6678b700"},"amount":{"type":"BigNumber","hex":"0x47da281c"}},{"type":"interest","period":"long","time":{"type":"BigNumber","hex":"0x667a0880"},"amount":{"type":"BigNumber","hex":"0x47da281c"}}]}
