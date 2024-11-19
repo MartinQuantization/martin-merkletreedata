@@ -1,0 +1,1 @@
+{"lastDay":{"type":"BigNumber","hex":"0x4e4e"},"rewards":[{"type":"interest","period":"long","time":{"type":"BigNumber","hex":"0x673bd500"},"amount":{"type":"BigNumber","hex":"0x23ed140e"}},{"type":"invition","invitee":"0x15Dd64C1E8bA5C1cfbf8D799E527911f55310ed6","level":"1","time":{"type":"BigNumber","hex":"0x673bd500"},"amount":{"type":"BigNumber","hex":"0x0bc1f3f1"}}]}
