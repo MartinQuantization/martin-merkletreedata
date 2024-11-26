@@ -1,1 +1,1 @@
-{"lastDay":{"type":"BigNumber","hex":"0x00"},"rewards":[]}
+{"lastDay":{"type":"BigNumber","hex":"0x4e55"},"rewards":[{"type":"interest","period":"short","time":{"type":"BigNumber","hex":"0x67450f80"},"amount":{"type":"BigNumber","hex":"0x05dc9b4600"}}]}
